@@ -17,3 +17,7 @@ def divide(x,y):
 #implementation solution
 def slove():
 	return  1+2
+#implemented cal
+def cal():
+	pass
+	
