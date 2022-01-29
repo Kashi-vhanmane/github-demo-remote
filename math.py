@@ -14,6 +14,6 @@ def divide(x,y):
 	else:
 		return x/y   #on master branch
 		
-#Square implementation		
-def square(x):
-	return x*x
+#implementation solution
+def slove():
+	pass
