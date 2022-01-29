@@ -16,4 +16,4 @@ def divide(x,y):
 		
 #implementation solution
 def slove():
-	pass
+	return  1+2
